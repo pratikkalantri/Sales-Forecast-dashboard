@@ -18,3 +18,8 @@ The objective can be broken down into following detailed components :-
 # Learning --
 
 Incorporated data analysis techniques specialized in time series analysis to deliver valuable insight, accurate sales forecasting and interactive dashboard creation driving business success.
+
+![Screenshot 2024-03-15 214546](https://github.com/pratikkalantri/Sales-Forecast-dashboard/assets/101921397/7ddcc63c-8682-444f-9502-201dac937d2f)
+
+![Screenshot 2024-03-15 214629](https://github.com/pratikkalantri/Sales-Forecast-dashboard/assets/101921397/44f14440-3c05-47f7-8470-bdfd968c3d97)
+
