@@ -1,4 +1,4 @@
-# Sales-Forecast-dashboard
+# Sales-Forecast-Dashboard
 
 # Objective 
 To contribute to the success of a business by utilizing data analysis technique specifically focusing on time series analysis to provide valuable insights and accurate sales forcasting.
